@@ -1,0 +1,84 @@
+{
+  "pets": [
+    {
+      "name": "Julie",
+      "imageSrc": "https://cdn.outsideonline.com/wp-content/uploads/2021/04/17/dog_head_square.jpg?crop=1:1&width=600&enable=upscale&quality=100?h=225&w=225",
+      "petType":"dog"
+    },
+    {
+      "name": "Francis",
+      "imageSrc": "https://t3.ftcdn.net/jpg/05/97/99/36/360_F_597993637_xdcHv7ig3u2Iq2m0RcMsq0azxKhMevhY.jpg?h=225&w=225",
+      "petType":"dog"
+    },
+    {
+      "name": "Manuel",
+      "imageSrc": "https://i.natgeofe.com/n/87908698-fc7a-4ada-ba21-490521df2511/01-domesticated-dog_square.jpg?h=225&w=225",
+      "petType":"dog"
+    },
+    {
+      "name": "John",
+      "imageSrc": "https://img.freepik.com/free-photo/adorable-beagle-puppy-solo-portrait_53876-64815.jpg?h=225&w=225",
+      "petType":"dog"
+    },
+    {
+      "name": "Rufo",
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIc1TsQZOmQVYrIqZlYLNZV7zlYdKrt-Y5w&usqp=CAU?h=225&w=225",
+      "petType":"dog"
+    },
+    {
+      "name": "Toby",
+      "imageSrc": "https://static01.nyt.com/images/2021/06/14/sports/14dog-show-winners-wasabi/14dog-show-winners-wasabi-mediumSquareAt3X.jpg?h=225&w=225",
+      "petType":"dog"
+    },
+    {
+      "name": "Napoleon",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/51c30e7ce4b089f545ce58b3/1372097481530-PTVEWDS947B6KPROUGY4/Beagle1.jpg?h=225&w=225",
+      "petType":"dog"
+    },
+    {
+      "name": "Tintin",
+      "imageSrc": "https://images.squarespace-cdn.com/content/v1/58b4791ad2b857c893179e34/1537971642021-LHW76T7O8JG0M4GLTSTP/IMG_2818.jpg?format=500w?h=225&w=225",
+      "petType":"dog"
+    },
+    {
+      "name": "Morfi",
+      "imageSrc": "https://st2.depositphotos.com/1000877/6724/i/950/depositphotos_67244621-stock-photo-cat-sleeping.jpg?h=225&w=225",
+      "petType":"cat"
+    },
+    {
+      "name": "Corny",
+      "imageSrc": "https://media.npr.org/assets/img/2020/02/11/gettyimages-1161583037_sq-82949555e11a4c743245aa61813a2a6494ba444c-s800-c85.jpg?h=225&w=225",
+      "petType":"cat"
+    },
+    {
+      "name": "Curry",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/7/77/Avatar_cat.png?h=225&w=225",
+      "petType":"cat"
+    },
+    {
+      "name": "Paddy",
+      "imageSrc": "https://play-lh.googleusercontent.com/O8mvDQlw4AwmGfUrh4lviZD_PwwhRHz2etA25F77SbXrm3qEHOt2826aNkKar4D0yw?h=225&w=225",
+      "petType":"cat"
+    },
+    {
+      "name": "Lola",
+      "imageSrc": "https://thumbs.dreamstime.com/b/young-purebred-abyssinian-cat-resting-sun-portrait-close-up-square-abyssinian-cat-square-close-up-224978351.jpg?h=225&w=225",
+      "petType":"cat"
+    },
+    {
+      "name": "Sisi",
+      "imageSrc": "https://images.unsplash.com/photo-1490650034439-fd184c3c86a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwxNDk0OTAwfHxlbnwwfHx8fHw%3D&w=1000&q=80?h=225&w=225",
+      "petType":"cat"
+    },
+    {
+      "name": "Cleopatra",
+      "imageSrc": "https://img.freepik.com/free-photo/stunning-square-portrait-adorable-cute-cat_181624-37290.jpg?h=225&w=225",
+      "petType":"cat"
+    },
+    {
+      "name": "Garfield",
+      "imageSrc": "https://as1.ftcdn.net/v2/jpg/01/63/11/70/1000_F_163117064_syJkTuCddASYjvl4WqyRmnuy8cDXpoQY.jpg?h=225&w=225",
+      "petType":"cat"
+    }
+  ]
+}
